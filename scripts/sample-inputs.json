@@ -1,0 +1,15 @@
+{
+  "addresses": {
+    "zero": "0x0000000000000000000000000000000000000000",
+    "exampleEOA": "0x1111111111111111111111111111111111111111",
+    "exampleContract": "0x2222222222222222222222222222222222222222",
+    "burn": "0x000000000000000000000000000000000000dEaD"
+  },
+  "usage": {
+    "network": "base-sepolia",
+    "purpose": "Repeatable read-only checks (balances, code presence, basic RPC validation)."
+  },
+  "notes": {
+    "warning": "Placeholder addresses only. Do not include real user addresses, private keys, or production contracts."
+  }
+}
