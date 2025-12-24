@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "description": "Static configuration for Base Mainnet and Base Sepolia (chainIds, RPC URLs, explorers).",
+  "description": "Static Base network definitions including RPC endpoints and explorers.",
   "networks": {
     "base-mainnet": {
       "name": "Base Mainnet",
